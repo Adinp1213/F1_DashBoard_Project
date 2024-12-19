@@ -8,3 +8,9 @@
  <img src="https://github.com/user-attachments/assets/7a3823f4-799e-4bb7-a85e-816be68867fb" alt="max" width="100%">
 </p>
 
+
+<h2 align = 'CENTER'>Cicuits DashBoard</h2>
+<p style="align: center;">
+ <img src="https://github.com/user-attachments/assets/d0d13fcb-3741-44bb-b6f6-3b9d8d016aab" alt="HAM" width="100%">
+</p>
+
