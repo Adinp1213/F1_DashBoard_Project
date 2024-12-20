@@ -1,7 +1,13 @@
 <h2 align = 'CENTER'>Data Modelling</h2>
 <p style="align: center;">
- <img src="https://github.com/user-attachments/assets/5c7ea6c1-2593-49d5-8d5b-a708075e15f3" alt="HAM" width="100%">
+ <img src="https://github.com/user-attachments/assets/8b7911e9-39b2-4d7c-ac78-6c102dd50e7a" style="align:center;" alt="DataModel" width="50%">
 </p>
+
+<h2 align = 'CENTER'>Home Dashboard</h2>
+<p style="align: center;">
+ <img src="https://github.com/user-attachments/assets/68e1f325-85eb-408e-af16-fbc5faf3671a" style="align:center;" alt="home" width="100%">
+</p>
+
 
 
 <h2 align = 'CENTER'>Drivers' View Board</h2>
