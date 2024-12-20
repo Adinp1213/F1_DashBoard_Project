@@ -1,3 +1,9 @@
+<h2 align = 'CENTER'>Data Modelling</h2>
+<p style="align: center;">
+ <img src="https://github.com/user-attachments/assets/5c7ea6c1-2593-49d5-8d5b-a708075e15f3" alt="HAM" width="100%">
+</p>
+
+
 <h2 align = 'CENTER'>Drivers' View Board</h2>
 <p style="align: center;">
  <img src="https://github.com/user-attachments/assets/e359c8bc-eca5-4d4a-8052-1d6550d76cd1" alt="HAM" width="100%">
